@@ -3,7 +3,7 @@
 """
 @Time    : 18/09/2018 10:21 PM
 @Author  : Jian
-@Contact : jian.li@shopee.com
+@Contact : l33klin@gmail.com
 @Site    : 
 @File    : big_file_sort.py
 """

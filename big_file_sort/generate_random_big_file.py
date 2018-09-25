@@ -3,7 +3,7 @@
 """
 @Time    : 17/09/2018 9:28 PM
 @Author  : Jian
-@Contact : jian.li@shopee.com
+@Contact : l33klin@gmail.com
 @Site    : 
 @File    : generate_random_big_file.py
 """
